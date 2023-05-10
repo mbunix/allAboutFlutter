@@ -1,2 +1,2 @@
-# theJituChallenge1
-challenges for the jitu
+# flutter_and_dart_training 
+trainings in flutter
